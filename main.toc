@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}引言：“3×8 和 8×3”的争论}{2}{section.1}%
+\contentsline {section}{\numberline {2}背景：群论到底提供了什么“思想工具”？}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}“群”的四个条件}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}小学初中可接触的“群论前置经验”}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}初等教育阶段“引入群概念”的可行方式}{5}{section.3}%
+\contentsline {section}{\numberline {4}结论与展望}{5}{section.4}%
